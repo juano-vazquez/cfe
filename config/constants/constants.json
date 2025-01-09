@@ -1,0 +1,55 @@
+{
+  "falsyValues": {
+    "num": 0,
+    "str": " "
+  },
+  "prefixes": {
+    "ftpImages": "cfe_smvf_"
+  },
+  "units": {
+    "temperature": {
+      "measure": {
+        "name": "Temperatura",
+        "value": "T"
+      },
+      "units": {
+        "celsius": {
+          "name": "Grados Celsius",
+          "value": "°C"
+        },
+        "fahrenheit": {
+          "name": "Grados Fahrenheit",
+          "value": "°F"
+        }
+      }
+    },
+    "pressure": {
+      "measure": {
+        "name": "Presión",
+        "value": "P"
+      },
+      "units": {
+        "kg_per_cm2": {
+          "name": "Kilogramo por centímetro cuadrado", 
+          "value": "kg/cm²"
+        },
+        "psi": {
+          "name": "Libra por pulgada", 
+          "value": "psi"
+        }
+      }
+    },
+    "flow": {
+      "measure": {
+        "name": "Caudal",
+        "value": "Q"
+      },
+      "units": {
+        "cm3_per_hr": {
+          "name": "Centímetro cúbico por hora", 
+          "value": "cm³/hr"
+        }
+      }
+    }
+  }
+}

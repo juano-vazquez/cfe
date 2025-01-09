@@ -1,0 +1,75 @@
+{
+  "measuresController": {
+    "deletedUser": "Usuario eliminado"
+  },
+  "common": {
+    "formats": {
+      "dateDDMMYYYY": "dd/MM/yyyy",
+      "timeHHMM": "HH:mm"
+    },
+    "success": {
+      "measureSubmission": "Medidas subidas con éxito",
+      "measureRetreival": "Medidas recuperadas con éxito",
+      "fileSubmission": "Archivo subido con éxito"
+    },
+    "error": {  
+      "persmissions": {
+        "camera": "Se denegó el acceso a la cámara",
+        "location": "Se denegó el permiso de ubicación"
+      },
+      "canceling": {
+        "camera": "Se canceló el acceso a la cámara"
+      },
+      "missingInfo": {
+        "picture": "Tome o seleccione una imagen del medidor",
+        "value": "Ingrese el valor de la medición"
+      },
+      "invalidData": "Datos inválidos",
+      "errorType": {
+        "request": "Error en la solicitud",
+        "response": "Error en la respuesta",
+        "unexpected": "Error inesperado"
+      },
+      "wrongCredentials": "Credenciales incorrectas",
+      "measureSubmissionErrors": {
+        "email": "Usuario inválido",
+        "date": "Fecha inválida",
+        "meter_number": "Número de medidor inválido",
+        "meter_category": "Categoría de medición inválida",
+        "measure_value": {
+          "empty": "Ingrese un valor para la medida",
+          "numeric": "El valor de la medida debe de ser numérico",
+          "invalid": "Valor inválido"
+        },
+        "measure_unit": {
+          "empty": "Ingrese un valor para la unidad de medida",
+          "numeric": "El valor de la unidad de medida debe de ser numérico",
+          "invalid": "Unidad de medida inválida"
+        },
+        "longitude": {
+          "empty": "Ingrese un valor para la longitud desde donde se realiza la captura de la medida",
+          "numeric": "El valor de la longitud debe de ser numérico",
+          "invalid": "Longitud inválido"
+        },
+        "latitude": {
+          "empty": "Ingrese un valor para la latitud desde donde se realiza la captura de la medida",
+          "numeric": "El valor de la latitud debe de ser numérico",
+          "invalid": "Latitud inválido"
+        },
+        "picture": {
+          "empty": "Suba una imagen",
+          "invalid": "Imagen inválida"
+        },
+        "employee": {
+          "notFound": "Empleado no disponible",
+          "invalid": "Empleado inválido"
+        }
+      },
+      "location": {
+        "unable": "No fue posible acceder a la ubicación del dispositivo",
+        "error": "Error al acceder a la ubicación del dispositivo"
+      }
+    }
+  }
+}
+
